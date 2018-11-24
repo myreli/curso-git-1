@@ -2,3 +2,4 @@
 'terra'
 'jupiter'
 'marte'
+'mercurio'
