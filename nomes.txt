@@ -3,3 +3,4 @@
 'jupiter'
 'marte'
 'mercurio'
+'urano'
